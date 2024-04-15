@@ -49,7 +49,8 @@ The submission process is organized in the following steps:
 1. **Extended Abstract Submission**: the goal is to pre-screen submissions for topical fit. Extended abstracts (up to three pages) should be sent to ``antonio.ferrara(at)poliba.it``.
 2. **Full Manuscript Submission**: after abstract pre-screening, the authors of selected paper will be asked to submit a full version of the paper by using IJHCS’s submission system (see the call for papers in the [journal's webpage](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies/about/call-for-papers#re-centering-the-user-in-recommender-system-research) for the details).
 
-Both the extended abstract and the full manuscript should follow the ... ``\documentclass[preprint,review,11pt]{elsarticle}``
+According to the IJHCS Guide for Authors, both the extended abstract and the full manuscript should be written in LaTeX using the Elsevier article class [elsarticle.cls](https://ctan.org/tex-archive/macros/latex/contrib/elsarticle). Overleaf users may find useful the [related template](https://it.overleaf.com/latex/templates/elsevier-article-elsarticle-template/vdzfjgjbckgz).
+Authors are asked to typeset their submissions with a double-spaced format, using the option ``\documentclass[preprint,review,11pt]{elsarticle}``.
 
 ## Important Dates
 
