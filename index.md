@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: home
+title: Re-centering the User in Recommender System Research
+subtitle: Special Issue of the International Journal of Human-Computer Studies (IJHCS)
 ---
+
+## Scope and topics
 
 Recommender systems (RSs), driven by advanced technology and evolving user demands, intricately analyze data to tailor content, products, or services, offering personalized experiences and enhancing user engagement. Cutting-edge technologies are redefining the nature of the interaction between users and RSs and amplifying the classic challenges of user engagement, highlighting the necessity of building, maintaining, evaluating, and studying systems that are fair, transparent, ethical, and primarily beneficial to users and society, upholding user expectations and fundamental human rights. Consequently, the ever-evolving landscape of RSs urgently demands a shift in focus: from prioritizing technology and stakeholder interests to empowering users and placing them at the core of research.
 
@@ -17,3 +19,42 @@ Topics of interest include but are not limited to:
 - Conversational and user-driven RSs
 - User studies and user-centric evaluation
 - User interfaces and novel UI design studies
+
+
+## Guest Editors
+
+- **Li Chen**, PhD
+Hong Kong Baptist University, Hong Kong, China
+``lichen(at)comp.hkbu.edu.hk``
+- **Antonio Ferrara**, PhD
+Polytechnic University of Bari, Bari, Italy
+``antonio.ferrara(at)poliba.it``
+- **Bart Knijnenburg**, PhD
+Clemson University, Clemson, USA
+``bartk(at)clemson.edu``
+- **Fedelucio Narducci**, PhD
+Polytechnic University of Bari, Bari, Italy
+``fedelucio.narducci(at)poliba.it``
+- **Maria Soledad Pera**, PhD
+Delft University of Technology, Delft, Netherlands
+``m.s.pera(at)tudelft.nl``
+- **Claudio Pomo**, PhD
+Polytechnic University of Bari, Bari, Italy
+``claudio.pomo(at)poliba.it``
+
+
+## Paper Submission Process
+
+The submission process is organized in the following steps:
+1. **Extended Abstract Submission**: the goal is to pre-screen submissions for topical fit. Extended abstracts (up to three pages) should be sent to ``pasquale.lops@uniba.it``.
+2. **Full Manuscript Submission**: after abstract pre-screening, the authors of selected paper will be asked to submit a full version of the paper by using IJHCS’s submission system (see the call for papers in the [journal's webpage](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies/about/call-for-papers#re-centering-the-user-in-recommender-system-research) for the details).
+
+Both the extended abstract and the full manuscript should follow the ... ``\documentclass[preprint,review,11pt]{elsarticle}``
+
+## Important Dates
+
+* **April 15th, 2024** – Full manuscript submission opens
+* **July 15th, 2024** – Extended abstract submission deadline
+* **September 15th, 2024** – Full manuscript submission deadline
+* **February 15th, 2025**  – Editorial acceptance deadline
+
