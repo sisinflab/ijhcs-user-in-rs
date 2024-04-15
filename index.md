@@ -46,7 +46,7 @@ Polytechnic University of Bari, Bari, Italy
 ## Paper Submission Process
 
 The submission process is organized in the following steps:
-1. **Extended Abstract Submission**: the goal is to pre-screen submissions for topical fit. Extended abstracts (up to three pages) should be sent to ``pasquale.lops@uniba.it``.
+1. **Extended Abstract Submission**: the goal is to pre-screen submissions for topical fit. Extended abstracts (up to three pages) should be sent to ``antonio.ferrara(at)poliba.it``.
 2. **Full Manuscript Submission**: after abstract pre-screening, the authors of selected paper will be asked to submit a full version of the paper by using IJHCS’s submission system (see the call for papers in the [journal's webpage](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies/about/call-for-papers#re-centering-the-user-in-recommender-system-research) for the details).
 
 Both the extended abstract and the full manuscript should follow the ... ``\documentclass[preprint,review,11pt]{elsarticle}``
