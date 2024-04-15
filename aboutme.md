@@ -4,13 +4,16 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Recommender systems (RSs), driven by advanced technology and evolving user demands, intricately analyze data to tailor content, products, or services, offering personalized experiences and enhancing user engagement. Cutting-edge technologies are redefining the nature of the interaction between users and RSs and amplifying the classic challenges of user engagement, highlighting the necessity of building, maintaining, evaluating, and studying systems that are fair, transparent, ethical, and primarily beneficial to users and society, upholding user expectations and fundamental human rights. Consequently, the ever-evolving landscape of RSs urgently demands a shift in focus: from prioritizing technology and stakeholder interests to empowering users and placing them at the core of research.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This special issue fosters collaboration among researchers from computer science, human-computer interaction, psychology, and ethics. This issue will serve as a platform for groundbreaking research that not only advances the technical frontiers of RSs but also ensures these systems are designed with a focus on user welfare, ethical standards, and societal impact. Contributions may range from innovative user-centric evaluation strategies prioritizing user trust and fairness to dynamic recommendation processes integrating direct user feedback and conversational interaction for enhanced personalization, e.g., with LLMs. Explorations into the explainability of RSs, personalization techniques that respect individual decision-making styles, and the ethical implications of bias, fairness, and privacy in data-driven systems are particularly welcome.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Topics of interest include but are not limited to:
+- User control and user-centric approaches
+- Trustworthiness and privacy
+- Explanation and transparency
+- Bias and fairness
+- Psychological aspects of recommendation
+- Conversational and user-driven RSs
+- User studies and user-centric evaluation
+- User interfaces and novel UI design studies
